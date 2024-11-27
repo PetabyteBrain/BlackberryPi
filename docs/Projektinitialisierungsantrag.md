@@ -57,7 +57,7 @@ Der Projektinitialisierungsauftrag bildet die verbindliche Grundlage für die Fr
 
 ## 2. Ausgangslage
 - **Projektbeschreibung**: Das Projekt „Blackberry Pi“ soll ein herkömmliches BlackBerry-Smartphone mit einer modularen Hardwarelösung neugestalten. Ziel ist es, ein Retro-Smartphone mit moderner Technik auszustatten, sodass es mit einem modernen Betriebssystem läuft.
-- **Problemstellung**: Aktuelle Smartphones mit physischer Tastatur sind rar. Dieses Projekt soll Fans der BlackBerry-Ästhetik eine kreative Alternative bieten. Moderne Smartphones werden immer größer. Mit diesem Projekt soll ein kleineres Gerät angeboten werden, das als Lösung für dieses Problem dient.
+- **Problemstellung**: Aktuelle Smartphones mit physischer Tastatur sind rar. Dieses Projekt soll Fans der BlackBerry-Ästhetik eine kreative Alternative bieten. Moderne Smartphones werden immer grösser. Mit diesem Projekt soll ein kleineres Gerät angeboten werden, das als Lösung für dieses Problem dient.
 - **Vorleistungen**: Erste Konzeptideen sowie technische Recherchen wurden abgeschlossen.
 
 ---
@@ -121,25 +121,25 @@ Der Projektinitialisierungsauftrag bildet die verbindliche Grundlage für die Fr
    - **Beschreibung**: Missverständnisse bei der Aufgabenverteilung oder fehlende Klarheit über Zuständigkeiten können zu Verzögerungen führen.  
    - **Eintretens-Wahrscheinlichkeit**: Mittel.  
    - **Auswirkungen**: Mittel – Ineffizientes Arbeiten, Verzögerungen im Zeitplan.  
-   - **Maßnahmen zur Minimierung**: Klare Kommunikation der Aufgabenverteilung im Teams-Chat, regelmäßige Abstimmungsmeetings und tägliche Updates über den Fortschritt.  
+   - **Massnahmen zur Minimierung**: Klare Kommunikation der Aufgabenverteilung im Teams-Chat, regelmässige Abstimmungsmeetings und tägliche Updates über den Fortschritt.  
 
 2. **Unzureichende Ressourcen (Räumlichkeiten, IT-Infrastruktur)**:  
    - **Beschreibung**: Der Zugang zu den Gibb-Räumen oder zur IT-Infrastruktur könnte eingeschränkt sein, z. B. wegen technischer Probleme oder organisatorischer Hürden.  
    - **Eintretens-Wahrscheinlichkeit**: Gering.  
    - **Auswirkungen**: Hoch – Arbeitsunterbrechungen und Verzögerungen bei der Entwicklung.  
-   - **Maßnahmen zur Minimierung**: Alternativ auf den privaten Büroraum zugreifen und frühzeitig technische Probleme bei der IT-Abteilung melden.  
+   - **Massnahmen zur Minimierung**: Alternativ auf den privaten Büroraum zugreifen und frühzeitig technische Probleme bei der IT-Abteilung melden.  
 
 3. **Fehlende Abstimmung mit dem Auftraggeber**:  
    - **Beschreibung**: Unzureichende Kommunikation mit dem Auftraggeber könnte zu Missverständnissen in Bezug auf die Projektanforderungen führen.  
    - **Eintretens-Wahrscheinlichkeit**: Mittel.  
    - **Auswirkungen**: Hoch – Fehler in der Planung oder Missverständnisse in der Zielsetzung.  
-   - **Maßnahmen zur Minimierung**: Regelmäßige Statusupdates per E-Mail, schnelle Rücksprache bei Unklarheiten via Teams.  
+   - **Massnahmen zur Minimierung**: Regelmässige Statusupdates per E-Mail, schnelle Rücksprache bei Unklarheiten via Teams.  
 
 4. **Zeitliche Engpässe im Team**:  
-   - **Beschreibung**: Die verfügbare Arbeitszeit pro Woche könnte nicht ausreichen, um alle Aufgaben im vorgegebenen Zeitraum abzuschließen.  
+   - **Beschreibung**: Die verfügbare Arbeitszeit pro Woche könnte nicht ausreichen, um alle Aufgaben im vorgegebenen Zeitraum abzuschliessen.  
    - **Eintretens-Wahrscheinlichkeit**: Mittel.  
    - **Auswirkungen**: Mittel – Verzögerungen beim Abschluss der Initialisierungsphase.  
-   - **Maßnahmen zur Minimierung**: Frühzeitige Planung und Priorisierung der Aufgaben, regelmäßige Überprüfung des Fortschritts.  
+   - **Massnahmen zur Minimierung**: Frühzeitige Planung und Priorisierung der Aufgaben, regelmässige Überprüfung des Fortschritts.  
 
 ---
 
