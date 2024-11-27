@@ -101,9 +101,15 @@ Für den Bau des Geräts werden verschiedene Komponenten und Materialien benöti
 ---
 
 ## 6. Kosten
-- **Hardware-Komponenten (geschätzt)**: ~  
+- **Hardware-Komponenten (geschätzt)**:
+	1. Gehäuse & Tastatur: 29,60 CHF
+	2. Touchscreen: 14 CHF
+	3. PCB für Tastatur: 65 CHF *eigentlicher preis: 0CHF durch [Onboard](https://hackclub.com/onboard/)*
+	4. Tastatur connector: 24,29 CHF
+	5. Raspberry pi: 20 - 80 CHF
+	*End Kosten widersprechen nicht die oberen angaben*
 - **Zusätzliche Materialien (Adapter, Kabel)**: ~  
-- **Gesamtkosten**: ~  
+- **Gesamtkosten**: 87,89 - 147,89 CHF 
 
 ---
 
@@ -163,5 +169,6 @@ Für den Bau des Geräts werden verschiedene Komponenten und Materialien benöti
 Hiermit erteilt der Auftraggeber den Auftrag zur Durchführung der Initialisierungsphase des Projektes „Blackberry Pi“.
 
 | ________________________ | _________________________ |
+|--------------------------|---------------------------|
 | **Der Auftraggeber**     | **Der Projektleiter**    |
 | *(Ort, Datum, Unterschrift)* | *(Ort, Datum, Unterschrift)* |
