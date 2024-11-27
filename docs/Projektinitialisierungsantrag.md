@@ -20,8 +20,9 @@
 
 | **Begriff / Abkürzung** | **Bedeutung** |
 |-------------------------|---------------|
-| Pi                     | Raspberry Pi |
-| BlackBerry Pi          | Umbauprojekt: BlackBerry mit Raspberry Pi als Herzstück |
+| Pi                      | Raspberry Pi |
+| BlackBerry Pi           | Umbauprojekt: BlackBerry mit Raspberry Pi als Herzstück |
+|AOSP                     | Android Open Source Project|
 
 ---
 
@@ -55,65 +56,90 @@ Der Projektinitialisierungsauftrag bildet die verbindliche Grundlage für die Fr
 ---
 
 ## 2. Ausgangslage
-- **Projektbeschreibung**: Das Projekt „Blackberry Pi“ soll ein herkömmliches BlackBerry-Smartphone mit einer modularen Hardwarelösung neugestalten. Ziel ist es, ein Retro-Smartphone mit moderner Technik auszustatten.  
-- **Problemstellung**: Aktuelle Smartphones mit physischer Tastatur sind rar. Dieses Projekt soll Fans der BlackBerry-Ästhetik eine kreative Alternative bieten. Moderne Handys werden werden immmer grösser somit sollte diesen Problem mit diesem Produkt gelöst werden da es kleiner als Normal grosse handys ist.
+- **Projektbeschreibung**: Das Projekt „Blackberry Pi“ soll ein herkömmliches BlackBerry-Smartphone mit einer modularen Hardwarelösung neugestalten. Ziel ist es, ein Retro-Smartphone mit moderner Technik auszustatten, sodass es mit einem modernen Betriebssystem läuft.
+- **Problemstellung**: Aktuelle Smartphones mit physischer Tastatur sind rar. Dieses Projekt soll Fans der BlackBerry-Ästhetik eine kreative Alternative bieten. Moderne Smartphones werden immer größer. Mit diesem Projekt soll ein kleineres Gerät angeboten werden, das als Lösung für dieses Problem dient.
 - **Vorleistungen**: Erste Konzeptideen sowie technische Recherchen wurden abgeschlossen.
 
 ---
 
 ## 3. Ziele
-- Integration moderner Hardware in das Gehäuse eines BlackBerry.  
-- Sicherstellung der Funktionalität der BlackBerry-Tastatur und des Raspberry-Pi Displays.  
+- Integration moderner Hardware (Raspberry Pi) in das Gehäuse eines BlackBerry.  
+- Sicherstellung der Funktionalität der BlackBerry-Tastatur und eines Raspberry-Pi-kompatiblen Displays.  
 - Erstellung eines prototypischen Geräts mit funktionsfähigen Basisfeatures.  
-- Laden einer eigener OS auf dem Gerät
+- Entwicklung eines eigenen Betriebssystems für das Gerät (AOSP).
+
 ---
 
 ## 4. Rahmenbedingungen
-- **Administrativ**: Genehmigungen und Projektplanung durch interne IT-Fachkräfte.  
-- **Organisatorisch**: Unterstützung durch Elektronikspezialisten und Designer.  
-- **Zeitlicher Rahmen**: Initialisierungsphase bis 31.01.2025.  
-- **Projektmethode**: Agile Planung mit Prototyp-Iterationen.  
+- **Administrativ**: Genehmigungen und Projektplanung durch Autoren.  
+- **Organisatorisch**: Unterstützung durch Lehrkräfte und Online-Ressourcen.  
+- **Zeitlicher Rahmen**: Initialisierungsphase bis 29.11.2024.  
+- **Projektmethode**: Hermes-Methode.  
 
 ---
 
 ## 5. Aufwand
-- **Arbeitsstunden**: Geschätzte 100 Stunden für Planung und Aufbau.  
-- **Material**: Gehäuse, elektronische Bauteile, Adapter und Halterungen.  
+- **Arbeitsstunden**: Geschätzte 70 Lektionen für Planung und Aufbau.  
+- **Material**: Gehäuse, elektronische Bauteile.
 
 ---
 
 ## 6. Kosten
-- **Hardware-Komponenten (geschätzt)**: CHF 100.-  
-- **Zusätzliche Materialien (Adapter, Kabel)**: CHF 35.-  
-- **Gesamtkosten**: ca. CHF 135.-  
+- **Hardware-Komponenten (geschätzt)**: ~  
+- **Zusätzliche Materialien (Adapter, Kabel)**: ~  
+- **Gesamtkosten**: ~  
 
 ---
 
 ## 7. Termine
-- **Endtermin Initialisierung**: 31.01.2025.  
-- **Prototyp-Präsentation**: 28.02.2025.  
+- **Endtermin Initialisierung**: 27.11.2024.  
+- **Studie**: 29.11.2024.  
+- **Konzeptbericht**: 22.04.2025.  
+- **Realisierungsbericht**: 23.04.2025.  
+- **Projekt-Präsentation**: 25.04.2025.  
+- **Schlussbericht**: 25.04.2025.  
 
 ---
 
 ## 8. Ressourcen
-- **Technik**: Gehäuse eines BlackBerry-Smartphones, Adapter, Peripherie.  
+- **Technik**: Gehäuse eines BlackBerry-Smartphones, Peripherie.  
 - **Werkzeuge**: Lötkolben, CAD-Software, 3D-Drucker.  
-- **Support**: Elektronik- und Designexperten.  
+- **Support**: Online-Tools / Recherche, Lehrkraft.
 
 ---
 
 ## 9. Kommunikation
-- **Stakeholder**: Auftraggeber, Autoren und Projekt-Leiter.  
-- **Form**: Wöchentlicher Fortschrittsbericht per E-Mail und Live-Demo nach Abschluss der Initialisierungsphase.  
+- **Stakeholder**: Auftraggeber, Autoren und Projektleiter.  
+- **Form**: Zusammensetzung der Gruppenmitglieder beim Praxistraining, um den aktuellen Projektstatus zu besprechen. Die Ergebnisse werden schriftlich festgehalten. Dabei werden wichtige Punkte erkannt und nächste Ziele festgelegt. Dem Auftraggeber wird eine kurze Zusammenfassung des aktuellen Stands übermittelt.
 
 ---
 
 ## 10. Risiken
-- **Erkannte Risiken**:  
-  1. Platzmangel im Gehäuse.  
-  2. Kompatibilitätsprobleme zwischen Hardware-Komponenten.  
-- **Risikobewertung**: Moderat.  
-- **Massnahmen**: Tests mit kompatiblen Komponenten, flexible Planung für alternative Ansätze.  
+### Erkannte Risiken
+
+1. **Unklare Aufgabenverteilung oder Kommunikationsprobleme im Team**:  
+   - **Beschreibung**: Missverständnisse bei der Aufgabenverteilung oder fehlende Klarheit über Zuständigkeiten können zu Verzögerungen führen.  
+   - **Eintretens-Wahrscheinlichkeit**: Mittel.  
+   - **Auswirkungen**: Mittel – Ineffizientes Arbeiten, Verzögerungen im Zeitplan.  
+   - **Maßnahmen zur Minimierung**: Klare Kommunikation der Aufgabenverteilung im Teams-Chat, regelmäßige Abstimmungsmeetings und tägliche Updates über den Fortschritt.  
+
+2. **Unzureichende Ressourcen (Räumlichkeiten, IT-Infrastruktur)**:  
+   - **Beschreibung**: Der Zugang zu den Gibb-Räumen oder zur IT-Infrastruktur könnte eingeschränkt sein, z. B. wegen technischer Probleme oder organisatorischer Hürden.  
+   - **Eintretens-Wahrscheinlichkeit**: Gering.  
+   - **Auswirkungen**: Hoch – Arbeitsunterbrechungen und Verzögerungen bei der Entwicklung.  
+   - **Maßnahmen zur Minimierung**: Alternativ auf den privaten Büroraum zugreifen und frühzeitig technische Probleme bei der IT-Abteilung melden.  
+
+3. **Fehlende Abstimmung mit dem Auftraggeber**:  
+   - **Beschreibung**: Unzureichende Kommunikation mit dem Auftraggeber könnte zu Missverständnissen in Bezug auf die Projektanforderungen führen.  
+   - **Eintretens-Wahrscheinlichkeit**: Mittel.  
+   - **Auswirkungen**: Hoch – Fehler in der Planung oder Missverständnisse in der Zielsetzung.  
+   - **Maßnahmen zur Minimierung**: Regelmäßige Statusupdates per E-Mail, schnelle Rücksprache bei Unklarheiten via Teams.  
+
+4. **Zeitliche Engpässe im Team**:  
+   - **Beschreibung**: Die verfügbare Arbeitszeit pro Woche könnte nicht ausreichen, um alle Aufgaben im vorgegebenen Zeitraum abzuschließen.  
+   - **Eintretens-Wahrscheinlichkeit**: Mittel.  
+   - **Auswirkungen**: Mittel – Verzögerungen beim Abschluss der Initialisierungsphase.  
+   - **Maßnahmen zur Minimierung**: Frühzeitige Planung und Priorisierung der Aufgaben, regelmäßige Überprüfung des Fortschritts.  
 
 ---
 
