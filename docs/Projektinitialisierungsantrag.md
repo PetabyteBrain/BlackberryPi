@@ -79,8 +79,24 @@ Der Projektinitialisierungsauftrag bildet die verbindliche Grundlage für die Fr
 ---
 
 ## 5. Aufwand
-- **Arbeitsstunden**: Geschätzte 70 Lektionen für Planung und Aufbau.  
-- **Material**: Gehäuse, elektronische Bauteile.
+
+### Arbeitsstunden
+Der Zeitaufwand für das Projekt wird auf ungefähr **70 Stunden** geschätzt. Dies beinhaltet die folgenden Phasen:
+- **Planung**: Recherche und Designphase, in der die Anforderungen und Spezifikationen festgelegt werden. Dazu gehört auch das Finden von geeigneten Hardware- und Softwarelösungen, die den Projektzielen entsprechen.
+- **Aufbau und Implementierung**: Der praktische Teil des Projekts, bei dem die einzelnen Komponenten zusammengefügt werden. Hierzu zählen das Löten, die Verkabelung der Hardware, das Zusammenbauen des Gehäuses sowie das Installieren und Konfigurieren der Software.
+- **Fehlerbehebung und Tests**: Nach der Implementierung wird eine Testphase durchgeführt, um sicherzustellen, dass alle Funktionen wie vorgesehen arbeiten. Dazu gehört das Debuggen von Softwareproblemen und die Optimierung der Hardware-Integration.
+
+### Material
+Für den Bau des Geräts werden verschiedene Komponenten und Materialien benötigt. Zu den Hauptbestandteilen gehören:
+- **Gehäuse**: Ein robustes und anpassbares Gehäuse, das Platz für alle elektronischen Komponenten bietet. Es sollte auch ergonomisch sein und die Nutzung erleichtern.
+- **Elektronische Bauteile**: Dazu zählen vor allem:
+  - **Raspberry Pi** als Herzstück des Systems.
+  - **Display** für die Benutzeroberfläche.
+  - **Akku und Power-Management-Komponenten** zur Energieversorgung.
+  - **Tastenfeld oder Touchscreen**, je nach Design.
+  - **Module für Kommunikation** wie Wi-Fi, Bluetooth oder ein Mobilfunkmodem.
+- **Zusätzliche Werkzeuge und Hilfsmittel**: Kabel, Lötstation, Schrauben, Isoliermaterialien und anderes Zubehör, das für die Montage erforderlich ist.
+
 
 ---
 
