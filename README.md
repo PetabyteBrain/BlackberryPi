@@ -237,6 +237,7 @@ Project Link: [https://github.com/PetabyteBrain/BlackberryPi](https://github.com
 * [BBQ10KBD arturo182](https://github.com/arturo182/BBQ10KBD/tree/master)
 * [Blackberry tastatur mit Bluetooth/ usb c](https://github.com/wallComputer/bbq20kbd_hw)
 * [Adapter PCB keyboard to usb-C](https://github.com/Dakkaron/Fairberry)
+* [Update Firmware of UsbASP programmer](https://www.electronics-lab.com/project/usbasp-firmware-update-guide/)
 * [Keyboard project github](https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard)
 
 ##### Other
@@ -246,7 +247,7 @@ Project Link: [https://github.com/PetabyteBrain/BlackberryPi](https://github.com
 * []()
 
 #### Software / OS
-##### ASOP
+##### AOSP
 * [Android Open Source Project (AOSP)](https://source.android.com/)
 * [AOSP adapted for Raspberry pi](https://konstakang.com/devices/rpi5/)
 * [Raspberry pi Vanilla](https://github.com/raspberry-vanilla)
