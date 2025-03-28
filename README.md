@@ -203,9 +203,11 @@ SOFTWARE.
 
 Spyros Catéchis - spyroscatechis@proton.me
 
-Team member2 - email@email_client.com
+Naomi Bächler - naomi.baechler@protonmail.com
 
-Team member3 - email@email_client.com
+Aram Amir - email@email_client.com
+
+Nicolas Ammeter - nicolas.ammeter@hotmail.com
 
 Project Link: [https://github.com/PetabyteBrain/BlackberryPi](https://github.com/PetabyteBrain/BlackberryPi)
 
@@ -227,7 +229,6 @@ Project Link: [https://github.com/PetabyteBrain/BlackberryPi](https://github.com
 * [Blackberry Clone mit Raspberry pi](https://www.heise.de/news/Blackberry-Clone-mit-Raspberry-Pi-9712108.html)
 * [Blackberry pi](https://magpi.raspberrypi.com/articles/blackberry-pi)
 * [Blackberry pi Handheld](https://hackaday.io/project/195587-blackberrypi-handheld)
-* []()
 
 #### Hardware
 ##### Keyboard
