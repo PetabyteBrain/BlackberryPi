@@ -2,7 +2,7 @@ Konzeptbericht
 
 |  |  |
 | --- | --- |
-| **Status** | In Arbeit **/ In Prüfung** / Abgeschlossen |
+| **Status** | In Arbeit / In Prüfung / **Abgeschlossen** |
 | **Projektname** | BlackBerry Pi |
 | **Projektleiter** | Spyros Catéchis |
 | **Auftraggeber** | Kurt Järmann |
@@ -17,7 +17,7 @@ Konzeptbericht
 | 1.0 | 22.04.2025 | Erste Ausfüllung | Aram, Naomi, Nicolas |
 | 1.1 | 22.04.2025 | Raffinierung | Aram, Naomi |
 | 1.2 | 22.04.2025 | Prüfung | Spyros |
-| 1.3 | 22.04.2025 | Überarbeitung | Aram, Naomi |
+| 1.3 | 22.04.2025 | Überarbeitung | Naomi |
 | 2.0 | 22.04.2025 | Finale Abgabe | Spyros |
 
 **Definitionen und Abkürzungen**
