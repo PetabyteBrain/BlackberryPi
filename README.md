@@ -291,6 +291,7 @@ wiki link & paket verlinken
 ### Script for Keyboard
 lalalal
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
