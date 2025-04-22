@@ -111,7 +111,7 @@ For getting a good start it is best if you buy or install the following prerequi
 
 ### Prerequisites
 
-* Hardware:
+#### Hardware:
 - Raspberry Pi Compute Module 5
 - 4.3inch DSI LCD [from Waveshare]
 - Nano Base Board A for CM5 [from Waveshare]
@@ -120,8 +120,8 @@ For getting a good start it is best if you buy or install the following prerequi
 - Keyboard from an old Blackberry Phone [from e.g. Ricardo]
 - DC Brushless Fan DC12V - 0.18A Model: JD4512M12 [from e.g. eBay or a 3D-printer]
 
-* Software:
-- On Power Hat, flash these (<a href="#scripts">scripts</a>) for correct functionality
+#### Software:
+- On Power Hat, flash these <a href="#scripts">scripts</a> for correct functionality
 
 ### Installation
 
