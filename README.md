@@ -75,6 +75,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a hreft="#scripts">Scripts</a></li>
   </ol>
 </details>
 
@@ -106,20 +107,34 @@ This Project is under development at the moment and is a working process. Update
 <!-- GETTING STARTED -->
 ## Getting Started
 
-...
+For getting a good start it is best if you buy or install the following prerequisites and installations.  Additionaly for the customization it is easiest if you have access to a 3D-printer.
 
 ### Prerequisites
 
-...
+* Hardware:
+- Raspberry Pi Compute Module 5
+- 4.3inch DSI LCD [from Waveshare]
+- Nano Base Board A for CM5 [from Waveshare]
+- Lipo Batterie 5000mAH 3.7V
+- Power Management Hat (B) [from Waveshare]
+- Keyboard from an old Blackberry Phone [from e.g. Ricardo]
+- DC Brushless Fan DC12V - 0.18A Model: JD4512M12 [from e.g. eBay or a 3D-printer]
+
+* Software:
+- On Power Hat, flash these (<a href="#scripts">scripts</a>) for correct functionality
 
 ### Installation
 
-...
+- Raspberry Pi Imager
+- Raspberry Pi boot Mass Storage Gadget
 
+
+### Additional stuff we created:
+- Keyboard to display: USB cable with a type A port, the open cable should be connected to the Keyboard directly.
+- Extension Cable: We integrated a makeshift female to male USB-C cable so that we can alter the placement of the UBS-C port on our phone.
+- Fan to Power Managment Hat: because the fan did not have the same type of port we used jumper wires.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -205,7 +220,7 @@ Spyros Catéchis - spyroscatechis@proton.me
 
 Naomi Bächler - naomi.baechler@protonmail.com
 
-Aram Amir - email@email_client.com
+Aram Amir - aram.amir07@gmail.com
 
 Nicolas Ammeter - nicolas.ammeter@hotmail.com
 
@@ -267,6 +282,14 @@ Project Link: [https://github.com/PetabyteBrain/BlackberryPi](https://github.com
 * []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SCRIPTS -->
+## Scripts
+### Script for Power Management Hat
+wiki link & paket verlinken
+
+### Script for Keyboard
+lalalal
 
 
 
