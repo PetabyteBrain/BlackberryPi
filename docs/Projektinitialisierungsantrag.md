@@ -1,6 +1,6 @@
 # Projektinitialisierungsantrag
 
-| **Status**             | In Arbeit |
+ **Status** | In Arbeit / In Prüfung / **Abgeschlossen** |
 |------------------------|-----------|
 | **Projektname**        | Blackberry Pi |
 | **Projektleiter**      | Kurt Järmann |

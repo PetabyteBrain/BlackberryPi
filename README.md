@@ -152,7 +152,7 @@ For getting a good start it is best if you buy or install the following prerequi
 
 - [X] Create concept & research
 - [X] plan prototype
-- [X] build 1st Prototype
+- [] build 1st Prototype
     - [ ] Optimise and upgrade Prototype
 - [ ] Choose OS
     - [ ] Adapt OS for Device

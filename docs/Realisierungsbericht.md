@@ -123,8 +123,7 @@ In den folgenden Kapiteln wird die Realisierung des Projekts "Blackberry Pi Phon
 
 ### Struktur
 
-![](data:image/png;base64...)
-
+![Image of Systemdesign](Images/design.components.view)
 Abb. 1. Systemdesign Grafik
 
 ### Beschreibung der Elemente
