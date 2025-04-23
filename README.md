@@ -77,6 +77,7 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
     <li><a href="#scripts">Scripts</a></li>
+    <li><a href="#3d-plans">3D Plans</a></li>
   </ol>
 </details>
 
@@ -285,12 +286,18 @@ Project Link: [https://github.com/PetabyteBrain/BlackberryPi](https://github.com
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SCRIPTS -->
-## Scripts
+## Scripts:
 ### Script for Power Management Hat
 In this wikipedia entry there are all scripts listed, that are needed to make the Power Management Hat work. There are also instructions on the use of them.
 
 ### Script for Keyboard
 With this link you will find the script for the binding of the input on the Keyboard to the display. Instructions can be found on the internet.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- 3D PLANS -->
+## 3D Plans:
+Lorem ipsum 3d druck uwu.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
