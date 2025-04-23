@@ -1,8 +1,7 @@
-Konzeptbericht
+# Konzeptbericht
 
-|  |  |
-| --- | --- |
 | **Status** | In Arbeit / In Prüfung / **Abgeschlossen** |
+| --- | --- |
 | **Projektname** | BlackBerry Pi |
 | **Projektleiter** | Spyros Catéchis |
 | **Auftraggeber** | Kurt Järmann |

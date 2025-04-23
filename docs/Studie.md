@@ -1,6 +1,6 @@
-Studie
+# Studie
 
-| Status | In Arbeit / In Prüfung / **Abgeschlossen** |
+| **Status** | In Arbeit / In Prüfung / **Abgeschlossen** |
 | --- | --- |
 | Projektname | Blackberry Pi |
 | Projektleiter | Spyros Catéchis |
