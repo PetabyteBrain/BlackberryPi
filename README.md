@@ -67,9 +67,10 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#additional-stuff">Additional stuff</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#build-example">Build example</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -123,21 +124,21 @@ For getting a good start it is best if you buy or install the following prerequi
 #### Software:
 - On the Power Management Hat and on the Keyboard, flash these <a href="#scripts">scripts</a> for correct functionality.
 
-### Installation
+### Installation:
 
 - Raspberry Pi Imager
 - Raspberry Pi boot Mass Storage Gadget
 
 
-### Additional stuff we created:
+### Additional stuff:
 - Keyboard to display: USB cable with a type A port, the open cable should be connected to the Keyboard directly.
 - Extension Cable: We integrated a makeshift female to male USB-C cable so that we can alter the placement of the UBS-C port on our phone.
 - Fan to Power Managment Hat: because the fan did not have the same type of port we used jumper wires.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- BUILD EXAMPLES -->
+## Build example
 
 ...
 
