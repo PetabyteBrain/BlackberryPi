@@ -325,8 +325,7 @@ Durch die simple Technologie und die freie OS-wahl ist das Natel individualisier
 
 ## Systemarchitektur
 
-
-<img src=„Images/design.component.view..png“></img>
+![Design Components View](Images/design.components.view.png)
 
 ## Testkonzept & Testspezifikationen
 
