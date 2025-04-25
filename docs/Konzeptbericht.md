@@ -147,20 +147,12 @@ System – Intern
 | --- | --- | --- | --- | --- | --- |
 | Systemaufgabe | Test-ID | Testbeschreibung | Testmethode / Eingabe | Erwartetes Ergebnis | Bezug zu Anforderung(en) |
 | S1 – Modulare Hardwareintegration | S1-TF1 | Display einbauen und prüfen | Bildschirmmodul anschliessen | Bild wird angezeigt | A1 |
-|  | S1-TF2 | Akku tauschen | Ersatzakku einsetzen | Gerät startet ohne Fehler | A5 |
-|  | S1-TF3 | Recheneinheit gegen baugleiche tauschen | Austauschmodul einsetzen | System bootet korrekt | A4 |
-|  | S1-TF4 | Tastatur austauschen | Physische Tastatur wechseln | Tasteneingabe funktioniert | A2, A4 |
-| S2 – Open Source OS & Softwaremodifikation | S2-TF1 | Root-Zugriff aktivieren | Terminalzugang testen | Root-Shell verfügbar | A3 |
-|  | S2-TF2 | Quellcode ändern & kompilieren | Funktion im Code modifizieren | Systemverhalten ändert sich korrekt | A8 |
-|  | S2-TF3 | WLAN & Kamera mit OS nutzen | Verbindung + Kamerafunktion prüfen | Funktionen laufen stabil | A7 |
+|  | S1-TF2 | Akku lösen | Akku einsetzen | Gerät startet ohne Fehler | A5 |
 | S3 – 3D-druckbares Gehäuse | S3-TF1 | Gehäuse drucken nach STL-Datei | 3D-Drucker | Bauteil passt perfekt | A6 |
 |  | S3-TF2 | Passgenauigkeit Gehäuse | Hardware einbauen | Alle Komponenten passen | A1, A6 |
 |  | S3-TF3 | Stabilitätstest | Falltest aus 1 m Höhe | Kein Bruch / minimale Beschädigung | A6 |
 | S4 – Grundfunktionen testen | S4-TF1 | WLAN-Verbindung prüfen | SSID + Passwort eingeben | Verbindung bleibt > 5 Min. | A7 |
-|  | S4-TF2 | Kamera öffnen und Bild speichern | Foto aufnehmen | Bild erscheint in Galerie | A7 |
-|  | S4-TF3 | Browserseite laden | URL eingeben | Website wird korrekt dargestellt | A7 |
 | S5 – Eingabegerät | S5-TF1 | Tasteneingabe testen | Text eintippen | Text erscheint korrekt | A2 |
-|  | S5-TF2 | Elektrisches Signal prüfen | Tastendruck + Multimeter | Signal wird übertragen | A2 |
 | S6 – Technische Dokumentation prüfen | S6-TF1 | Doku auf Vollständigkeit prüfen | Dokumentenreview | Alle Komponenten & Schritte enthalten | A10 |
 |  | S6-TF2 | Doku-gestützter Nachbau durch Dritte | Gerät nach Anleitung bauen | Gerät funktioniert wie geplant | A10, A4 |
 | S7 – Budgetkontrolle & Vergleich | S7-TF1 | Einzelpreise auflisten & summieren | Kostenaufstellung | Gesamt ≤ 250 € | A9 |
