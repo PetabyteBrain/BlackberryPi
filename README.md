@@ -154,9 +154,9 @@ For getting a good start it is best if you buy or install the following prerequi
 
 - [X] Create concept & research
 - [X] plan prototype
-- [] build 1st Prototype
+- [X] build 1st Prototype
     - [ ] Optimise and upgrade Prototype
-- [ ] Choose OS
+- [X] Choose OS
     - [ ] Adapt OS for Device
 
 See the [open issues](https://github.com/PetabyteBrain/BlackberryPi/issues) for a full list of proposed features (and known issues).
@@ -290,10 +290,10 @@ Project Link: [https://github.com/PetabyteBrain/BlackberryPi](https://github.com
 <!-- SCRIPTS -->
 ## Scripts:
 ### Script for Power Management Hat
-In this wikipedia entry there are all scripts listed, that are needed to make the Power Management Hat work. There are also instructions on the use of them.
+In [this Link](https://www.waveshare.com/wiki/Power_Management_HAT_(B)) there are all scripts listed, that are needed to make the Power Management Hat work. There are also instructions on the use of them.
 
 ### Script for Keyboard
-With this link you will find the script for the binding of the input on the Keyboard to the display. Instructions can be found on the internet.
+With [this link](https://github.com/Dakkaron/Fairberry) you will find the repo and the scripts for the binding of the input on the Keyboard to the display. Instructions can be found under that Repo.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
