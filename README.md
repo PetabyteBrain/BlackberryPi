@@ -156,6 +156,8 @@ For getting a good start it is best if you buy or install the following prerequi
 - [X] plan prototype
 - [X] build 1st Prototype
     - [ ] Optimise and upgrade Prototype
+    - [ ] Build V.2
+- [ ] Work on a compact version (Raspberry pi zero)
 - [X] Choose OS
     - [ ] Adapt OS for Device
 
@@ -299,7 +301,10 @@ With [this link](https://github.com/Dakkaron/Fairberry) you will find the repo a
 
 <!-- 3D PLANS -->
 ## 3D Plans:
-Lorem ipsum 3d druck uwu.
+
+The 3d Model is made out of 3 parts and can be printed and assembled at Home.
+
+[Here](docs/models) is a Link to the more detailed view of the model and it's construction / assembly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
