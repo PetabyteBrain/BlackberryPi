@@ -87,7 +87,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+  <img src="images/BlackBerryPi-Demo1.png" alt="Blackberry Pi" width="80%">
+</div>
 
 This project is all about bringing the iconic BlackBerry style back to life but with a twist. Instead of using outdated hardware, we’re giving it a modern upgrade by building it around a Raspberry Pi. The idea is to create something that feels unique and different from the sea of touchscreens we see today while keeping it open, customizable, and fun to work with. It’s a mix of nostalgia and innovation for people who want something truly their own.
 This Project is under development at the moment and is a working process. Updates in this Repository are to be expected.
@@ -113,6 +115,10 @@ This Project is under development at the moment and is a working process. Update
 For getting a good start it is best if you buy or install the following prerequisites and installations.  Additionaly for the customization it is easiest if you have access to a 3D-printer.
 
 ### Prerequisites
+
+<div align="center">
+  <img src="images/BlackBerryPi-All-Pieces.png" alt="Blackberry Pi" width="80%">
+</div>
 
 #### Hardware:
 - Raspberry Pi Compute Module 5
@@ -147,6 +153,10 @@ For getting a good start it is best if you buy or install the following prerequi
 ...
 
 For detailed assembly instructions, see the [Assembly Guide](docs/assembly/Assembly_Guide.md).
+
+<div align="center">
+  <img src="images/BlackBerryPi-Inside.png" alt="Blackberry Pi" width="80%">
+</div>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
