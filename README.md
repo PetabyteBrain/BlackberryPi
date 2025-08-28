@@ -280,7 +280,6 @@ Project Link: [https://github.com/PetabyteBrain/BlackberryPi](https://github.com
 * [2.8 inch Display](https://www.waveshare.com/wiki/2.8inch_DPI_LCD)
 * [Compute module 5  lite, 16gb ram, wifi](https://www.welectron.com/Raspberry-Pi-Compute-Module-CM5116000-Lite-16-GB-RAM-WiFi)
 * [Nano Base Board (A)](https://www.berrybase.ch/nano-base-board-a-fuer-raspberry-pi-compute-module-4?c=2410)
-* []()
 
 #### Software / OS
 ##### AOSP
@@ -299,7 +298,6 @@ Project Link: [https://github.com/PetabyteBrain/BlackberryPi](https://github.com
 
 #### Extra / Other
 * [Pi Zero 2w + blackberry case + e-ink](https://www.reddit.com/r/RASPBERRY_PI_PROJECTS/comments/1ddj94n/pi_zero_2w_blackberry_case_eink_would_this_work/)
-* []()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
