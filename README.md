@@ -257,7 +257,6 @@ Project Link: [https://github.com/PetabyteBrain/BlackberryPi](https://github.com
 * [Beepy raspberry pi zero](https://beepy.sqfmi.com/)
 * [Blackberry Keyboard with Arduino](https://forum.arduino.cc/t/interfacing-blackberry-q10-keypad-to-arduino-and-the-oled-typewriter/342989)
 * [Adapter PCB keyboard to usb-C](https://github.com/Dakkaron/Fairberry)
-* []()
 * [Github Readme Template](https://github.com/othneildrew/Best-README-Template)
 
 ### Sources
