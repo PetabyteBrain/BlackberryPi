@@ -130,7 +130,7 @@ For getting a good start it is best if you buy or install the following prerequi
 - DC Brushless Fan DC12V - 0.18A Model: JD4512M12 [from e.g. eBay or a 3D-printer]
 
 #### Software:
-- On the Power Management Hat and on the Keyboard, flash these <a targert="_blank" href="#scripts">scripts</a> for correct functionality.
+- On the Power Management Hat and on the Keyboard, flash these <a href="#scripts">scripts</a> for correct functionality.
 
 ### Installation:
 
