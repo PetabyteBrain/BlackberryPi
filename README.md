@@ -92,7 +92,7 @@
 </div>
 
 This project is all about bringing the iconic BlackBerry style back to life but with a twist. Instead of using outdated hardware, we’re giving it a modern upgrade by building it around a Raspberry Pi. The idea is to create something that feels unique and different from the sea of touchscreens we see today while keeping it open, customizable, and fun to work with. It’s a mix of nostalgia and innovation for people who want something truly their own.
-This project is under development at the moment and is a working process. Updates in this erpository are to be expected.
+This project is under development at the moment and is a working process. Updates in this rpository are to be expected.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
