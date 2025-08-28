@@ -112,7 +112,7 @@ This project is under development at the moment and is a working process. Update
 <!-- GETTING STARTED -->
 ## Getting Started
 
-For getting a good start it is best if you buy or install the following prerequisites and installations.  Additionaly for the customization it is easiest if you have access to a 3D-printer.
+For getting a good start it is best if you buy or install the following prerequisites and installations.  Additionally for the customization it is easiest if you have access to a 3D-printer.
 
 ### Prerequisites
 
